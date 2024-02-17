@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mubashir Hussain</h1>
 <h3 align="center">A passionate React Native developer from Pakistan.</h3>
-- 🌱 I’m currently learning **React Native, DevOps**
 <img align="center" alt="coding" width="500" src="https://camo.githubusercontent.com/ad28cab36fa44e2f77a63970bcbb06660efdd314ed9168ec140d7b222dc2ae9e/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e676966">
+- 🌱 I’m currently learning **React Native, DevOps**
 - 👨‍💻 All of my projects are available at (https://github.com/mubashir78611/)
 
 - 💬 Ask me about **React Native, DevOps, Jenkins**
